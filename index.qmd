@@ -9,7 +9,11 @@ format:
     page-layout: full
     smooth-scroll: true
     anchor-sections: true
+    embed-resources: true 
+resources:
+  - MichelleRicart_Resume.pdf
 ---
+
 
 ::: {.hero .center}
 ![Headshot](headshot.jpg){.headshot alt="Professional headshot of Michelle Marie Ricart" width="160"}
