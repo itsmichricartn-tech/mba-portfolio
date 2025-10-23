@@ -1,0 +1,37 @@
+---
+title: "Appendix — LLM Draft & Commentary"
+format:
+  html:
+    theme: cosmo
+    css: styles.scss
+    toc: true
+    number-sections: false
+---
+
+> **Purpose.** This appendix stores the LLM prompts and drafts I used, and briefly explains which parts I kept or changed and why.
+
+## A. Prompts used (verbatim)
+```text
+Build a one-page MBA portfolio website in Quarto using my CV and headshot.
+Include About, Education, Professional Highlights, Skills, and Contact.
+Write concise, professional bullets; keep HR experience (Shell) and recent culinary work in Vancouver.
+Add an attribution note that links to this Appendix.
+```
+(Date: Oct 22, 2025, Model: ChatGPT)
+
+## B. LLM-generated draft (verbatim)
+(Paste here the original text the model produced before I edited.)
+
+## C. What I used vs. what I changed
+- **Kept:** Section structure; concise bullet style for HR + culinary experience; skills list.
+- **Modified:** Rewrote bullets to reflect my actual responsibilities and timelines; improved clarity and grammar.
+- **Removed:** Generic phrases not supported by my CV.
+- **Added:** Contact details and links; clear attribution to LLM; light visual styling.
+
+## D. Attribution & date
+- LLM: ChatGPT (OpenAI), conversation on **Oct 22, 2025 (America/Vancouver)**.  
+- Use: brainstorming + initial draft. **I reviewed and edited all content** to ensure accuracy and my own voice.
+
+## E. Sources (if any)
+- My resume (for facts, dates, roles).  
+- Quarto documentation for configuration and publishing.

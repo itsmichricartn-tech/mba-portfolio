@@ -1,0 +1,77 @@
+---
+title: ""
+pagetitle: "Michelle Marie Ricart — MBA Portfolio"
+format:
+  html:
+    theme: cosmo
+    css: styles.scss
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    anchor-sections: true
+---
+
+::: {.hero .center}
+![Headshot](headshot.jpg){.headshot alt="Professional headshot of Michelle Marie Ricart" width="160"}
+
+# Michelle Marie Ricart
+MBA Candidate · University Canada West (UCW)
+
+<small>Vancouver, BC · itsmichricartn@gmail.com · 236-412-0833</small>
+
+[Download Resume](MichelleRicart_Resume.pdf){.btn .btn-primary role="button"}
+:::
+
+<div class="center">
+<em>LLM-assisted drafting noted. Full attribution and commentary in the <a href="appendix.html">Appendix</a>.</em>
+</div>
+
+## About
+MBA candidate at **University Canada West** with hands-on experience across **Human Resources** (Compensation & Benefits, employee services, onboarding) and recent **culinary operations** roles in Vancouver. I bring a service mindset, attention to detail, and adaptability developed in high-volume environments—focused on clear communication, process reliability, and people-centric results.
+
+## Education
+- **MBA (in progress)** — University Canada West (UCW)
+- **Pathway III (Proficiency)** — International Language Academy of Canada (ILAC), Jul 2024
+- **B.Sc. in Industrial Psychology** — Universidad Pedro Henríquez Ureña (UNPHU), Apr 2023
+
+## Professional Highlights
+### Human Resources — Shell (Santo Domingo, Dominican Republic)
+- **Compensation & Benefits Analyst** (Dec 2021 – Sep 2024)  
+  - Responded to employee inquiries on benefits, payroll, and labour policies, improving service satisfaction.  
+  - Coordinated with the Ministry of Labour to streamline documentation and deposit procedures.  
+  - Increased efficiency and timeliness of labour certifications and official documentation.
+- **General Analyst** (Dec 2021 – Aug 2024)  
+  - Delivered front-line support to employees and external partners with a customer-first approach.  
+  - Managed recruitment, onboarding and training processes to ensure positive new-hire experiences.  
+  - Led employee orientation programs to strengthen engagement and productivity.
+
+### Culinary & Hospitality — Vancouver, Canada
+- **Cook, Guilt and Co** (Oct 2025 – Present)  
+  - Ensure ingredient quality and station organization; execute dishes and prep to standard.
+- **Line Cook, Six Acres** (Mar 2025 – May 2025)  
+  - Maintain quality control and cleanliness; complete assigned dishes and prep. 
+- **Plater, Fed** (Mar 2025 – Sep 2025)  
+  - Plate accurately, portion correctly, and present food attractively.
+- **Stock Service, ZARA** — Santo Domingo, Dominican Republic (Nov 2019 – Nov 2021)  
+  - Stock control, inventories, order prep, and ERP updates to maintain availability.
+
+## Skills
+<span class="tag">Teamwork</span>
+<span class="tag">Problem-Solving</span>
+<span class="tag">Customer Service</span>
+<span class="tag">Attention to Detail</span>
+<span class="tag">Interpersonal Skills</span>
+<span class="tag">Adaptability</span>
+<span class="tag">Time Management</span>
+
+## Contact
+- 📍 Vancouver, BC, Canada
+- ✉️ <a href="mailto:itsmichricartn@gmail.com">itsmichricartn@gmail.com</a>
+- 📞 <a href="tel:+12364120833">+1 236‑412‑0833</a>
+- 🔗 <a href="https://www.linkedin.com/" target="_blank" rel="noopener">LinkedIn</a> <!-- Add your URL -->
+
+---
+
+<div class="footer center">
+  <small>© Oct 22, 2025 · Built with <a href="https://quarto.org/" target="_blank" rel="noopener">Quarto</a>. · <a href="appendix.html">Appendix</a></small>
+</div>
